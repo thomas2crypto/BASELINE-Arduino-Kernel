@@ -1,5 +1,5 @@
 # BASLINE
-A Kernel, runing on the Arduino Giga
+A Kernel - toolchain, build for the Arduino Giga R1 Wifi
 
 
-It's a Kernel top built a OS on The Giga
+It's a Toolchain to built an Kernel for The Giga
